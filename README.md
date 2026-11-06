@@ -13,6 +13,8 @@ Proyek akhir mata kuliah Kecerdasan Bisnis, IF-A, UPN "Veteran" Yogyakarta 2025.
 
 Dosen pengampu: Andrey Ferriyan, S.T., M.Cs., Ph.D.
 
+**Peran saya (Muhammad Ruhul Jadid):** mengolah dan membersihkan data, membangun dashboard di Looker Studio, serta menentukan apa saja yang ditampilkan di dashboard.
+
 ## Rumusan Masalah
 
 1. Bagaimana mengolah dataset emisi CO2 global agar mendukung operasi OLAP (pivot, slice, dice)?
@@ -50,4 +52,4 @@ Dosen pengampu: Andrey Ferriyan, S.T., M.Cs., Ph.D.
 
 ## Lampiran
 
-- Video presentasi: https://youtu.be/r5Dh7dBBDV8
+- Dashboard Looker Studio: https://datastudio.google.com/s/rdCLMTAC07k
