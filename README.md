@@ -48,7 +48,7 @@ Dosen pengampu: Andrey Ferriyan, S.T., M.Cs., Ph.D.
 
 - Proyeksi memakai trendline regresi linear tanpa validasi lanjutan (pembagian data latih dan uji, ukuran kesalahan).
 - Hubungan GDP dan emisi bersifat korelasi, bukan sebab-akibat.
-- Dashboard Looker Studio perlu dicek ulang karena sebagian grafik gagal dimuat dari akun pengunjung. Tangkapan layar ada di laporan PDF.
+- Jika grafik dashboard Looker Studio tidak muncul saat dibuka tanpa login, tangkapan layar semua visualisasi ada di laporan PDF.
 
 ## Lampiran
 
